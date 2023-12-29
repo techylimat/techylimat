@@ -2,7 +2,7 @@
 ### Hi 👋 My name is Halimat Oyiza Muhammadurabiu
 =============================================
 
-Data Scientist
+Bichemist|Data Scientist
 --------------
 
 I am Halimat, a data scientist with more than one year experience. Currently, I am a fellow of Arewa Data Science Academy and have also completed internship at The Sparks Foundation.
