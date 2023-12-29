@@ -28,4 +28,4 @@ I am Halimat, a data scientist with more than one year experience. Currently, I 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/techylimat"><img src="https://github-readme-stats.vercel.app/api?username=techylimat&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="techylimat's GitHub stats" /></a>
+<a href="http://www.github.com/techylimat"><img src="https://github-readme-stats.vercel.app/api?username=techylimat&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=ffffff&bg_color=ffffff&hide_border=true&show_icons=true" alt="techylimat's GitHub stats" /></a>
