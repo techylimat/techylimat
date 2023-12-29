@@ -2,12 +2,12 @@
 ### Hi 👋 My name is Halimat Oyiza Muhammadurabiu
 =============================================
 
-Bichemist|Data Scientist
+Biochemist|Data Scientist
 --------------
 
 I am Halimat, a data scientist with more than one year experience. Currently, I am a fellow of Arewa Data Science Academy and have also completed internship at The Sparks Foundation.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Abuja, Nigeria
 * ✉️  You can contact me at [musahalimatoyiza@gmail.com](mailto:musahalimatoyiza@gmail.com)
 * 🧠  I'm learning Data Science and Machine Learning
 * 🤝  I'm open to collaborating on interesting projects in Python, Machine Learning and PowerBI
