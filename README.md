@@ -1,5 +1,5 @@
 
-### Hi 👋 My name is Halimat Oyiza Muhammadurabiu
+### Hi 👋 My name is Halimat Oyiza Musa
 =============================================
 
 Biochemist|Data Scientist
